@@ -12,7 +12,7 @@ Caleb Theis
 - [Data Model and More Mapping](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_02_assignment_template.ipynb)
 - [Projecting Geographic Data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_03_assignment_template.ipynb)
 - [Query Spatial Data for New Insights](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_05_assignment_template.ipynb)
-- [Mapping digital elevation and hydrology data](
+- [Mapping digital elevation and hydrology data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_08_assignment.ipynb)
 
 ## Map Coordinate Basics
 
