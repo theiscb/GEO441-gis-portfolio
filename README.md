@@ -10,7 +10,8 @@ Caleb Theis
 
 - [Week 1 Assignment](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_01_assignment_template.ipynb)
 - [Week 2 Assignment](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_02_assignment_template.ipynb)
-- [Week 3 Assignment]()
+- [Week 3 Assignment](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_03_assignment_template.ipynb)
+- [Week 5 Assignment](
 
 ## Map Coordinate Basics
 
