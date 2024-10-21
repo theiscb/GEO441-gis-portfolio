@@ -9,7 +9,8 @@ Caleb Theis
 ## Basic Mapping
 
 - [Week 1 Assignment](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_01_assignment_template.ipynb)
-- [Map the age index based on 2000 census data](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/age-index-mapping.ipynb)
+- [Week 2 Assignment](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_02_assignment_template.ipynb)
+- [Week 3 Assignment]()
 
 ## Map Coordinate Basics
 
