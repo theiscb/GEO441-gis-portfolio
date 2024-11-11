@@ -17,3 +17,7 @@ Caleb Theis
 ## Map Coordinate Basics
 
 - [Practice Problems](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/map-coordinate-basics/group_3_practice_exam_part_2_keys.ipynb)
+
+## Spatial-Analysis
+
+- [Spatial-Analysis for Vector Data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/Spatial-Analysis/Soho_Heat_Map.ipynb)
