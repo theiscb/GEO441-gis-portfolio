@@ -14,6 +14,10 @@ Caleb Theis
 - [Query Spatial Data for New Insights](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_05_assignment_template.ipynb)
 - [Mapping digital elevation and hydrology data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_08_assignment.ipynb)
 
+## Build Sections and Queries
+-
+-
+
 ## Map Coordinate Basics
 
 - [Practice Problems](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/map-coordinate-basics/group_3_practice_exam_part_2_keys.ipynb)
