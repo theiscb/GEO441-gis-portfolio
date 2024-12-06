@@ -14,9 +14,6 @@ Caleb Theis
 - [Query Spatial Data for New Insights](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_05_assignment_template.ipynb)
 - [Mapping digital elevation and hydrology data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/basic-mapping/CT_final_08_assignment.ipynb)
 
-## Build Sections and Queries
--
--
 
 ## Map Coordinate Basics
 
@@ -26,3 +23,4 @@ Caleb Theis
 
 - [Spatial-Analysis for Vector Data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/Spatial-Analysis/Soho_Heat_Map.ipynb)
 - [Working With U.S. Census Data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/Spatial-Analysis/CT_week_12_assignment_template.ipynb)
+- [Spatial Analysis for Raster Data]
