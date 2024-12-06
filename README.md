@@ -23,4 +23,4 @@ Caleb Theis
 
 - [Spatial-Analysis for Vector Data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/Spatial-Analysis/Soho_Heat_Map.ipynb)
 - [Working With U.S. Census Data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/Spatial-Analysis/CT_week_12_assignment_template.ipynb)
-- [Spatial Analysis for Raster Data]
+- [Spatial Analysis for Raster Data](https://github.com/theiscb/GEO441-gis-portfolio/blob/main/Spatial-Analysis/CT_final_week_09_assignment_template.ipynb)
